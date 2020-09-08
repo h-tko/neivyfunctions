@@ -1,4 +1,4 @@
-module github.com/h-tko/neivy-functions
+module github.com/h-tko/neivyfunctions
 
 go 1.14
 
