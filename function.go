@@ -1,8 +1,8 @@
 package neivyfunctions
 
 import (
-	"net/http"
 	"fmt"
+	"net/http"
 )
 
 func GetImages(w http.ResponseWriter, r *http.Request) {
